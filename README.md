@@ -1,6 +1,13 @@
-<h1 align="center">Hi 👋, I'm Karthik Rasamsetti</h1>
-<h3 align="center">Automation Test Engineer | Future AI Engineer | QA Enthusiast</h3>
+<!-- 🌟 Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Karthik+Rasamsetti;Automation+Test+Engineer;Agentic+AI+%26+LLM+Automation;AI+Driven+Quality+Engineering+Enthusiast" />
+</p>
 
+<!-- Profile Title -->
+<h1 align="center">Hi 👋, I'm Karthik Rasamsetti</h1>
+<h3 align="center">Automation Test Engineer | Agentic AI | LLM Automation | QA Specialist</h3>
+
+<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/karthik-rasamsetti-29450319b/">
     <img src="https://img.shields.io/badge/LinkedIn-Karthik%20Rasamsetti-blue?style=for-the-badge&logo=linkedin" />
@@ -10,83 +17,107 @@
   </a>
 </p>
 
----
-
-### 👨‍💻 **About Me**
-
-- 🔭 Currently working as an **Automation Test Engineer**
-- 💼 **3+ years experience** in Playwright, Selenium, WebdriverIO, UTAM & Java/Python/TypeScript  
-- 🤖 Building **AI-driven autonomous testing tools**
-- 🧪 Experienced with **E2E automation**, Jenkins CI/CD, Mac & Windows pipelines  
-- 🎯 Learning & transitioning towards **AI Engineering**
-- 📝 I regularly explore NLP-based UI automation & intelligent test agents  
-- 🚀 Passionate about building robust, scalable test frameworks & AI tools for QA
-
----
-
-### 🛠️ **Tech Stack**
-
-#### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karthikrasamsetti&label=Profile%20Views&color=ff0000&style=for-the-badge" />
 </p>
 
-#### **Automation & Testing**
-<p>
+---
+
+## 👨‍💻 About Me  
+
+- 🔭 Automation Test Engineer with **3+ years of expertise**
+- 🤖 Building **AI-driven test agents** & LLM-powered automation tools
+- 🧠 Exploring **Agentic AI**, autonomous QA, NLP UI automation & prompt engineering  
+- 🧪 Specializing in **UI, API & E2E automation** across MacOS & Windows  
+- 🔧 Tools: Playwright, Selenium, WebdriverIO, UTAF, Jenkins, Git  
+- 🚀 Goal: Become an **AI Engineer specialized in Intelligent Quality Engineering**  
+
+---
+
+## 🧠 AI & Automation Skills  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge&logo=icloud" />
+  <img src="https://img.shields.io/badge/LLM%20Automation-6C63FF?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/GenAI%20Testing-FF5722?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/AI%20Test%20Agents-0B6EFD?style=for-the-badge&logo=robotframework" />
+  <img src="https://img.shields.io/badge/NLP%20UI%20Automation-0A66C2?style=for-the-badge&logo=python" />
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🔹 Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html" />
+</p>
+
+### 🔹 Automation & Testing  
+<p align="center">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium" />
+  <img src="https://skillicons.dev/icons?i=selenium" />
   <img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio" />
-  <img src="https://img.shields.io/badge/UTAM-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UTAF-000000?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
-#### **DevOps & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions" />
+### 🔹 Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+### 🔹 DevOps / Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,git,githubactions,androidstudio,figma" />
   <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple" />
   <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows" />
 </p>
 
-#### **Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/JavaFX-000000?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/OkHttp-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jackson-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SLF4J-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5" />
-</p>
-
 ---
 
-### 🚀 **Current Projects**
-
-- 🔹 **Autonomous Testing App (AI)**
-- 🔹 testing automation for e-commerce & trading platforms
-- 🔹 NLP-based UI automation (Playwright + LLM)
-- 🔹 UTAF POCs and enterprise-level component architecture
-
----
-
-### 📊 **GitHub Stats**
+## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarthikRasamsetti&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikRasamsetti&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikrasamsetti&theme=radical&margin-w=15&row=1" />
 </p>
 
 ---
 
-### ✨ **Quote I Believe In**
-> “Testing is not just to find bugs — it is to **build confidence** in every release.”
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=karthikrasamsetti&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikrasamsetti&theme=radical" />
+</p>
 
 ---
 
-### 📫 **Contact Me**
+## 🐍 Contribution Snake Animation  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ✨ Quote I Believe In  
+
+> **“AI will not replace testers — but testers using AI will replace testers who don’t.”**
+
+---
+
+## 📫 Contact Me  
+
 📧 Email: **karthikrasamsetti@gmail.com**  
-🔗 LinkedIn: **/in/karthik-rasamsetti-29450319b**
+🔗 LinkedIn: [Karthik Rasamsetti](https://www.linkedin.com/in/karthik-rasamsetti-29450319b/)  
 
 ---
 
-⭐ **If you like my work, feel free to star my repositories!**
+<p align="center">
+ ⭐ **If you like my work, consider giving my repositories a star!** ⭐
+</p>
