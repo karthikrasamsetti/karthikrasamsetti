@@ -77,19 +77,7 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthikrasamsetti&theme=radical&margin-w=15&row=1" />
-</p>
-
----
-
 ## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=karthikrasamsetti&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikrasamsetti&theme=radical" />
@@ -121,3 +109,4 @@
 <p align="center">
  ⭐ **If you like my work, consider giving my repositories a star!** ⭐
 </p>
+
